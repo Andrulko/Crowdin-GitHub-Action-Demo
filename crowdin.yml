@@ -6,3 +6,6 @@
 files: 
   - "source": "/res/values/strings.xml"
     "translation": "/res/values-%two_letters_code%/strings.xml"
+  - "source": "/Localizable.xcstrings"
+    "translation": "%original_file_name%"
+    "multilingual": 1
