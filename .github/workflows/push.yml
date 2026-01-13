@@ -1,4 +1,4 @@
-name: Crowdin Pull Action
+name: Crowdin Push Action
 
 permissions:
   contents: write
